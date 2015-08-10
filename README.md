@@ -1,6 +1,6 @@
 ## Jahbs
 
-"At least we've got one" ~ Anonymous
+"At least we've got one." ~ Anonymous
 
 This project is a fork of lolcommits-dot-com. It's a small Rails application
 which talks to the Github API for user authentication and displays a series of
